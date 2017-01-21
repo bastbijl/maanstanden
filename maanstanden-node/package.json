@@ -1,0 +1,14 @@
+{
+  "name": "maanstanden-node",
+  "version": "1.0.0",
+  "description": "A node version of the famous maanstanden project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maanstanden"
+  ],
+  "author": "",
+  "license": "ISC"
+}
