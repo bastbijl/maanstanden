@@ -1,4 +1,14 @@
 body {
-font-family: verdana;
-font-size: 20pt;
+  font-family: verdana;
+  font-size: 10pt;
+  background-color: antiquewhite;
+}
+
+td {
+  width: 30px;
+  height: 30px;
+  border-radius: 25px;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
 }
