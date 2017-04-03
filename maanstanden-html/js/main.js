@@ -1,4 +1,7 @@
 
+var moon = require('/moon');
+console.log(moon);
+
 function marginLeft(input) {
   return input;
 }
