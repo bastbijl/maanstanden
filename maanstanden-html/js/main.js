@@ -1,6 +1,8 @@
 
 var moon = require('/moon');
 console.log(moon);
+var moonphase = require('/moonphase');
+console.log(moonphase);
 
 function marginLeft(input) {
   return input;
