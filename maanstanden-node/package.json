@@ -1,14 +1,18 @@
 {
   "name": "maanstanden-node",
   "version": "1.0.0",
-  "description": "A node version of the famous maanstanden project.",
+  "description": "This helps to always know how full the moon will be at night.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "keywords": [
-    "maanstanden"
+    "moon",
+    "astronomy"
   ],
+  "dependencies":{
+    "astronomia":"latest"
+  },
   "author": "",
   "license": "ISC"
 }
